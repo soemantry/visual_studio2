@@ -1,0 +1,7 @@
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\bin\Debug\programhitung.exe.config
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\bin\Debug\programhitung.exe
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\bin\Debug\programhitung.pdb
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\obj\Debug\programhitung.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\obj\Debug\programhitung.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\obj\Debug\programhitung.exe
+C:\Users\diptya sumantry\source\repos\programhitung\programhitung\obj\Debug\programhitung.pdb

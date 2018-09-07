@@ -1,0 +1,10 @@
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\bin\Debug\KALKulator_setelahClassLibrary.exe.config
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\bin\Debug\KALKulator_setelahClassLibrary.exe
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\bin\Debug\KALKulator_setelahClassLibrary.pdb
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\bin\Debug\kalkulaotr_classLibrary.dll
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\bin\Debug\kalkulaotr_classLibrary.pdb
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\obj\Debug\KALKulator_setelahClassLibrary.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\obj\Debug\KALKulator_setelahClassLibrary.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\obj\Debug\KALKulator_setelahClassLibrary.csproj.CopyComplete
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\obj\Debug\KALKulator_setelahClassLibrary.exe
+c:\users\diptya sumantry\source\repos\KALKulator_setelahClassLibrary\KALKulator_setelahClassLibrary\obj\Debug\KALKulator_setelahClassLibrary.pdb

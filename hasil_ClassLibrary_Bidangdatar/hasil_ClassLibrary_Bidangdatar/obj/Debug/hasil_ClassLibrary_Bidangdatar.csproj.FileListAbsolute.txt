@@ -1,0 +1,10 @@
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\bin\Debug\hasil_ClassLibrary_Bidangdatar.exe.config
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\bin\Debug\hasil_ClassLibrary_Bidangdatar.exe
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\bin\Debug\hasil_ClassLibrary_Bidangdatar.pdb
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\bin\Debug\Tugas_bidanngdaatar_classLibrary.dll
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\bin\Debug\Tugas_bidanngdaatar_classLibrary.pdb
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\obj\Debug\hasil_ClassLibrary_Bidangdatar.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\obj\Debug\hasil_ClassLibrary_Bidangdatar.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\obj\Debug\hasil_ClassLibrary_Bidangdatar.csproj.CopyComplete
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\obj\Debug\hasil_ClassLibrary_Bidangdatar.exe
+C:\Users\diptya sumantry\source\repos\hasil_ClassLibrary_Bidangdatar\hasil_ClassLibrary_Bidangdatar\obj\Debug\hasil_ClassLibrary_Bidangdatar.pdb

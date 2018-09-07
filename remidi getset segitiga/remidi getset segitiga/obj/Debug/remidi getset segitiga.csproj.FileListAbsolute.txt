@@ -1,0 +1,7 @@
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\bin\Debug\remidi getset segitiga.exe.config
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\bin\Debug\remidi getset segitiga.exe
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\bin\Debug\remidi getset segitiga.pdb
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\obj\Debug\remidi getset segitiga.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\obj\Debug\remidi getset segitiga.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\obj\Debug\remidi getset segitiga.exe
+C:\Users\diptya sumantry\source\repos\remidi getset segitiga\remidi getset segitiga\obj\Debug\remidi getset segitiga.pdb

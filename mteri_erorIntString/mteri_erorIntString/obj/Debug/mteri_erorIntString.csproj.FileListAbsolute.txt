@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\bin\Debug\mteri_erorIntString.exe.config
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\bin\Debug\mteri_erorIntString.exe
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\bin\Debug\mteri_erorIntString.pdb
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\obj\Debug\mteri_erorIntString.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\obj\Debug\mteri_erorIntString.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\obj\Debug\mteri_erorIntString.exe
+c:\users\diptya sumantry\source\repos\mteri_erorIntString\mteri_erorIntString\obj\Debug\mteri_erorIntString.pdb

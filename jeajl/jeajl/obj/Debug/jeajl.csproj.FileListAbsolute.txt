@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\obj\Debug\jeajl.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\obj\Debug\jeajl.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\bin\Debug\jeajl.exe.config
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\bin\Debug\jeajl.exe
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\bin\Debug\jeajl.pdb
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\obj\Debug\jeajl.exe
+c:\users\diptya sumantry\source\repos\jeajl\jeajl\obj\Debug\jeajl.pdb

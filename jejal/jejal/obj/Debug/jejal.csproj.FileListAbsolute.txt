@@ -1,0 +1,7 @@
+C:\Users\diptya sumantry\source\repos\jejal\jejal\bin\Debug\jejal.exe.config
+C:\Users\diptya sumantry\source\repos\jejal\jejal\bin\Debug\jejal.exe
+C:\Users\diptya sumantry\source\repos\jejal\jejal\bin\Debug\jejal.pdb
+C:\Users\diptya sumantry\source\repos\jejal\jejal\obj\Debug\jejal.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\jejal\jejal\obj\Debug\jejal.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\jejal\jejal\obj\Debug\jejal.exe
+C:\Users\diptya sumantry\source\repos\jejal\jejal\obj\Debug\jejal.pdb

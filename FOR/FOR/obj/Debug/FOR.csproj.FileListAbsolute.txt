@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\FOR\FOR\obj\Debug\FOR.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\FOR\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\FOR\FOR\bin\Debug\FOR.exe.config
+c:\users\diptya sumantry\source\repos\FOR\FOR\bin\Debug\FOR.exe
+c:\users\diptya sumantry\source\repos\FOR\FOR\bin\Debug\FOR.pdb
+c:\users\diptya sumantry\source\repos\FOR\FOR\obj\Debug\FOR.exe
+c:\users\diptya sumantry\source\repos\FOR\FOR\obj\Debug\FOR.pdb

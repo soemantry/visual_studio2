@@ -1,0 +1,2 @@
+c:\users\diptya sumantry\source\repos\nghitung joss\nghitung joss\obj\Debug\nghitung joss.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\nghitung joss\nghitung joss\obj\Debug\nghitung joss.csproj.CoreCompileInputs.cache

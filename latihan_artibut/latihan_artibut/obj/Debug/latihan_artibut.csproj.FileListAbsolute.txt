@@ -1,0 +1,7 @@
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\bin\Debug\latihan_artibut.exe.config
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\bin\Debug\latihan_artibut.exe
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\bin\Debug\latihan_artibut.pdb
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\obj\Debug\latihan_artibut.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\obj\Debug\latihan_artibut.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\obj\Debug\latihan_artibut.exe
+C:\Users\diptya sumantry\source\repos\latihan_artibut\latihan_artibut\obj\Debug\latihan_artibut.pdb

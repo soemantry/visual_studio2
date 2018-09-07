@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\obj\Debug\contoh while.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\obj\Debug\contoh while.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\bin\Debug\contoh while.exe.config
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\bin\Debug\contoh while.exe
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\bin\Debug\contoh while.pdb
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\obj\Debug\contoh while.exe
+c:\users\diptya sumantry\source\repos\contoh while\contoh while\obj\Debug\contoh while.pdb

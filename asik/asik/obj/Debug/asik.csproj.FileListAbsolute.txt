@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\asik\asik\obj\Debug\asik.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\asik\asik\obj\Debug\asik.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\asik\asik\bin\Debug\asik.exe.config
+c:\users\diptya sumantry\source\repos\asik\asik\bin\Debug\asik.exe
+c:\users\diptya sumantry\source\repos\asik\asik\bin\Debug\asik.pdb
+c:\users\diptya sumantry\source\repos\asik\asik\obj\Debug\asik.exe
+c:\users\diptya sumantry\source\repos\asik\asik\obj\Debug\asik.pdb

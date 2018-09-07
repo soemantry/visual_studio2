@@ -1,0 +1,7 @@
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\bin\Debug\bayanganhewan.exe.config
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\bin\Debug\bayanganhewan.exe
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\bin\Debug\bayanganhewan.pdb
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\obj\Debug\bayanganhewan.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\obj\Debug\bayanganhewan.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\obj\Debug\bayanganhewan.exe
+c:\users\diptya sumantry\source\repos\bayanganhewan\bayanganhewan\obj\Debug\bayanganhewan.pdb

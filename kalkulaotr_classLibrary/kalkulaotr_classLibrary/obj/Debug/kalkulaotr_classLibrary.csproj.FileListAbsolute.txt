@@ -1,0 +1,6 @@
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\bin\Debug\kalkulaotr_classLibrary.dll
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\bin\Debug\kalkulaotr_classLibrary.pdb
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\obj\Debug\kalkulaotr_classLibrary.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\obj\Debug\kalkulaotr_classLibrary.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\obj\Debug\kalkulaotr_classLibrary.dll
+c:\users\diptya sumantry\source\repos\kalkulaotr_classLibrary\kalkulaotr_classLibrary\obj\Debug\kalkulaotr_classLibrary.pdb

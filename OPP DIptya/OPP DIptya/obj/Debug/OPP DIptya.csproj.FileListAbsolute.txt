@@ -1,0 +1,7 @@
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\obj\Debug\OPP DIptya.csprojAssemblyReference.cache
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\obj\Debug\OPP DIptya.csproj.CoreCompileInputs.cache
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\bin\Debug\OPP DIptya.exe.config
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\bin\Debug\OPP DIptya.exe
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\bin\Debug\OPP DIptya.pdb
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\obj\Debug\OPP DIptya.exe
+C:\Users\diptya sumantry\source\repos\OPP DIptya\OPP DIptya\obj\Debug\OPP DIptya.pdb
